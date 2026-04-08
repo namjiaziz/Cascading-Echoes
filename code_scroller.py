@@ -79,7 +79,31 @@ class CodeScroller:
             "// Memento mori",
             "# Guess we're doing this now",
             "// I see you",
-            "// ........",
+              "// 💧 Cascade de Code 💧",
+            "// L'eau se souvient de chaque ligne de code",
+            "// Ici, le temps s'écoule comme une boucle infinie",
+            "// Chaque goutte est une variable qui s'évapore",
+            "// Le code respire, la cascade répond",
+            "// Silence... le programme écoute l'eau tomber",
+        
+            "/ Et si le bug était juste une goutte hors du flux ?",
+            "/ La réalité compile-t-elle sans erreurs ?",
+            "/ L'eau ne plante jamais, elle s'adapte",
+            "/ Tout s'exécute… même l'invisible",
+        
+            "// TODO: apprendre à nager avant de déboguer",
+            "// Warning: cette cascade est plus stable que ton code",
+            "// Si ça crash, blame l'eau 💧",
+            "/ 404: goutte introuvable",
+            "// Ceci n'est pas un bug, c'est de l'art",
+        
+            "/ Initialisation du flux aquatique...",
+            "// Simulation en cours: gravity = ON",
+            "/ Render des particules: mode cascade",
+            "// Sync entre eau et syntaxe...",
+            "/ Performance: fluide (jeu de mots validé)",
+        
+            "// Memento mori... même le code s'efface un jour"
             "// The end is never the end is never the end is never the end",
             "// Coding is fun, sometimes",
             "// What is even supposed to be here",
